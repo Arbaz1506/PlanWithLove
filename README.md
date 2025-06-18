@@ -35,7 +35,7 @@
 ## 🔗 Links
 
 🔴 [GitHub Repo](https://github.com/Arbaz1506/PlanWithLove)  
-🌐 [Live Demo](https://arbaz1506.github.io/PlanWithLove)  
+🌐 [Live Demo](https://plan-with-love-murex.vercel.app/)  
 
 ---
 
